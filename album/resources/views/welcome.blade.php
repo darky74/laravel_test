@@ -6,6 +6,6 @@
 
 @section('content')
 
-    Je suis tellement content que tu fonctionnes  MFGIT!!!
+    Je suis tellement
 
 @endsection
